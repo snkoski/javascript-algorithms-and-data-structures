@@ -1,0 +1,23 @@
+{
+  "name": "javascript-algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "Algorithm and Data Structure practice in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snkoski/javascript-algorithms-and-data-structures.git"
+  },
+  "author": "Shawn Koski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snkoski/javascript-algorithms-and-data-structures/issues"
+  },
+  "homepage": "https://github.com/snkoski/javascript-algorithms-and-data-structures#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

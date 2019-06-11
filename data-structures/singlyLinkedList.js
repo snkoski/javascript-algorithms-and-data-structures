@@ -144,9 +144,11 @@ class SinglyLinkedList {
     }
 }
 
-let l = new SinglyLinkedList()
-l.push('Hello')
-l.push('World')
-l.push('!')
-l.push(':)')
-l.push('<3')
+module.exports = { Node, SinglyLinkedList };
+    
+// let l = new SinglyLinkedList()
+// l.push('Hello')
+// l.push('World')
+// l.push('!')
+// l.push(':)')
+// l.push('<3')
